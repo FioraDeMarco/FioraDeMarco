@@ -6,10 +6,12 @@
 - 🎶 Fun fact: When I am not programming, I enjoy being out in nature, listening to music, and watching Yankee games
 
 
-             Latest Projects
+Latest Projects
              
 -GitTogether, a coding collaboration platform: https://gittogether-fsa.herokuapp.com 
+
 -Soundaathon, a single page application to find live shows in your area: https://soundaathon-app.herokuapp.com/
+
 <!---
 FioraDeMarco/FioraDeMarco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
