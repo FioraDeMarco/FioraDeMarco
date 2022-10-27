@@ -6,6 +6,7 @@
 - 🎶 Fun fact: When I am not programming, I enjoy being out in nature, listening to music, and watching Yankee games
 
 
+
 Latest Projects
              
 -GitTogether, a coding collaboration platform: https://gittogether-fsa.herokuapp.com 
