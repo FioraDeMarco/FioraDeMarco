@@ -60,6 +60,29 @@
   <tr>
 <td width="50%" valign="top">
   </tr>
+   <tr>
+<td width="50%" valign="top">
+      <h3>Fruit Mastermind</h3>
+
+  
+  ![Fiora-Mastermind-Game](https://user-images.githubusercontent.com/95592960/215577844-6e79797e-34d5-41aa-bfde-657fd772c5c6.jpeg)
+
+  
+  <p>
+  <a href="https://github.com/FioraDeMarco/mastermind-game" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+      </p>
+        <p><strong>React, Material UI, Node, React-dnd, Toastify, Netlify</strong> - Fruit Mastermind is a mastermind game that can be played against the computer. In this game, the user tries to guess a combination of fruit. At the end of each attempt to guess the 4 fruit comination, the computer will provide feedback whether the player had guessed any of the fruit correctly, and if the correct fruit was guessed at the correct index. A player must get the comination right within 10 attempts to win the game!</p>
+ <p>
+      <a href="https://fruitmastermind.com/">
+    <p></p>
+  </a>
+     <a href="https://fruitmastermind.com/">
+    <p>Live Application</p>
+  </a>
+  </p>
+  </tr>
 </table>
 </section>
 
